@@ -1,0 +1,24 @@
+{
+  "name": "node_socket",
+  "version": "1.0.0",
+  "description": "node server having socket communication with socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishrak-imam/node_socket.git"
+  },
+  "author": "ishrak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishrak-imam/node_socket/issues"
+  },
+  "homepage": "https://github.com/ishrak-imam/node_socket#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
